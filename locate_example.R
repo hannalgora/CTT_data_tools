@@ -7,6 +7,8 @@ library(geosphere)
 source("functions/data_manager.R")
 source("functions/localization.R")
 
+#trial
+
 ###EDIT THESE VALUES
 infile <- "~/Documents/data/radio_projects/ABS_TagTest1"
 outpath <- "../output/"
